@@ -1,0 +1,8 @@
+{
+    "name": "@rpf37/rpgmodels",
+    "version": "1.0.10",
+    "description": "",
+    "main": "model.js",
+    "author": "rponciano",
+    "license": "ISC"
+}
